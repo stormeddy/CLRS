@@ -1,0 +1,17 @@
+6 16
+u x
+x u
+u v
+v u
+v y
+y v
+y x
+x y
+x v
+v x
+w y
+y w
+w z
+z w
+z z
+z z

@@ -1,0 +1,10 @@
+6 9
+r s
+r t
+s t
+s x
+x y
+x z
+y z
+t y
+t z

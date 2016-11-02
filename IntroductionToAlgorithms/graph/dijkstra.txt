@@ -1,0 +1,11 @@
+5 10
+s t 10
+s y 5
+t x 1
+t y 2
+y t 3
+y x 9
+y z 2
+z x 6
+x z 4
+z s 7

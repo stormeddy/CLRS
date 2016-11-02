@@ -1,0 +1,11 @@
+9 10
+shirt tie
+shirt belt
+tie jacket
+belt jacket
+watch watch
+shorts trousers
+shorts shoes
+trousers belt
+trousers shoes
+socks shoes
